@@ -1,0 +1,6 @@
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\obj\Debug\Zad IV dodatkowe.csprojResolveAssemblyReference.cache
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\bin\Debug\Zad IV dodatkowe.exe.config
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\bin\Debug\Zad IV dodatkowe.exe
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\bin\Debug\Zad IV dodatkowe.pdb
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\obj\Debug\Zad IV dodatkowe.exe
+E:\Pulpit\IO_Lab3\Zad IV dodatkowe\obj\Debug\Zad IV dodatkowe.pdb

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad14", "Lab14\Zad14.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 15 SerwerKlientDodatkowe", "SerwerKlientDodatkowe\Zad 15 SerwerKlientDodatkowe.csproj", "{8D008ABE-4963-417F-89BE-3349B4FB825F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad IV dodatkowe", "Zad IV dodatkowe\Zad IV dodatkowe.csproj", "{58DE8645-69B2-4124-A4B7-8FF07C2947CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8D008ABE-4963-417F-89BE-3349B4FB825F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D008ABE-4963-417F-89BE-3349B4FB825F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D008ABE-4963-417F-89BE-3349B4FB825F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DE8645-69B2-4124-A4B7-8FF07C2947CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DE8645-69B2-4124-A4B7-8FF07C2947CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DE8645-69B2-4124-A4B7-8FF07C2947CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DE8645-69B2-4124-A4B7-8FF07C2947CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
