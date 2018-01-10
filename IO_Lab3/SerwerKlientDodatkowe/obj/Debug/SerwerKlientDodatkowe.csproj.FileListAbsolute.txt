@@ -1,0 +1,5 @@
+E:\Pulpit\IO_Lab3\SerwerKlientDodatkowe\bin\Debug\SerwerKlientDodatkowe.exe.config
+E:\Pulpit\IO_Lab3\SerwerKlientDodatkowe\bin\Debug\SerwerKlientDodatkowe.exe
+E:\Pulpit\IO_Lab3\SerwerKlientDodatkowe\bin\Debug\SerwerKlientDodatkowe.pdb
+E:\Pulpit\IO_Lab3\SerwerKlientDodatkowe\obj\Debug\SerwerKlientDodatkowe.exe
+E:\Pulpit\IO_Lab3\SerwerKlientDodatkowe\obj\Debug\SerwerKlientDodatkowe.pdb

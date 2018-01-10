@@ -1,0 +1,5 @@
+E:\Pulpit\IO_Lab3\Zad13\bin\Debug\Zad13.exe.config
+E:\Pulpit\IO_Lab3\Zad13\bin\Debug\Zad13.exe
+E:\Pulpit\IO_Lab3\Zad13\bin\Debug\Zad13.pdb
+E:\Pulpit\IO_Lab3\Zad13\obj\Debug\Zad13.exe
+E:\Pulpit\IO_Lab3\Zad13\obj\Debug\Zad13.pdb

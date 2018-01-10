@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\IO_Lab3\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\IO_Lab3\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\IO_Lab3\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\student\source\repos\IO_Lab3\Lab14\bin\Debug\Lab14.exe
+C:\Users\student\source\repos\IO_Lab3\Lab14\bin\Debug\Lab14.pdb
+C:\Users\student\source\repos\IO_Lab3\Lab14\obj\Debug\Lab14.exe
+C:\Users\student\source\repos\IO_Lab3\Lab14\obj\Debug\Lab14.pdb

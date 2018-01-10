@@ -1,0 +1,6 @@
+E:\Pulpit\IO_Lab3\Lab14\bin\Debug\Lab14.exe.config
+E:\Pulpit\IO_Lab3\Lab14\bin\Debug\Lab14.exe
+E:\Pulpit\IO_Lab3\Lab14\bin\Debug\Lab14.pdb
+E:\Pulpit\IO_Lab3\Lab14\obj\Debug\Zad14.csprojResolveAssemblyReference.cache
+E:\Pulpit\IO_Lab3\Lab14\obj\Debug\Lab14.exe
+E:\Pulpit\IO_Lab3\Lab14\obj\Debug\Lab14.pdb
